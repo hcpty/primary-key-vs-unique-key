@@ -2,7 +2,7 @@
 A comparison between Primary Key and Unique Key.
 
 ### Primary Key vs Unique Key
-- Primary Key用于唯一地定位一条记录。
+- Primary Key用于在一个命名空间中唯一地定位一条记录。
 - Unique Key用于索引以加快查找。
 
 ### Credits
